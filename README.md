@@ -1,5 +1,8 @@
-
 # PUMA Compiler
+
+This project has driven substantial progress and impact over the past six years, playing a key role in advancing the development of a Programmable Ultra-efficient Memristor-based Accelerator. However, the project has now reached the end of its lifecycle, with core contributors having graduated and transitioned to new initiatives. As a result, we have made the decision to archive the project, and no further development is planned.
+
+
 
 ## Overview
 
